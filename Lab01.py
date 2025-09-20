@@ -5,10 +5,11 @@
 # 3. Assignment Description:
 #      Play the game of Tic-Tac-Toe
 # 4. What was the hardest part? Be as specific as possible.
-#      The hardest partfor me was the play_game function, because i needed to think of different cases where the player could do that could make the code to break. 
-# Also, the funcion of is_x_turn was a bit tricky because i was struggling to find a way to count the X's and O's in the board.
+#      The hardest part for me was creating the play_game function. I had to consider different scenarios where the player could enter invalid inputs or make moves that could break the game. 
+#      Additionally, the is_x_turn function was a bit tricky because I had to figure out how to correctly count the number of X's and O's on the board to determine whose turn it was.
 # 5. How long did it take for you to complete the assignment?
 #      Around 5 hours
+
 import json
 
 # The characters used in the Tic-Tac-Too board.
